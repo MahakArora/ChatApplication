@@ -5,6 +5,13 @@ Welcome to the Chat Application! This real-time chat platform allows users to jo
 ## Deployment
 
 The application is deployed and accessible at [https://chat-app-2000.netlify.app/](https://chat-app-2000.netlify.app/).
+![Chat Application](./images/1.png)
+
+
+
+![Chat Application](./images/2.png)
+
+
 
 ## Technologies Used
 
